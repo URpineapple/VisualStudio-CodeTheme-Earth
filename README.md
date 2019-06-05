@@ -8,5 +8,5 @@ Also, if you like my work don't forget to give me a five-star review!
 
 ## Screenshots
 
-![alt-text]("/image/screenshot-css.png")
+![alt-text]("https://github.com/URpineapple/VisualStudio-CodeTheme-Earth/blob/master/image/screenshot-css.png")
 
