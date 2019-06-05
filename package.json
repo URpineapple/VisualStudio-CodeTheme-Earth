@@ -2,7 +2,7 @@
     "name": "dateng",
     "displayName": "Earth",
     "description": "A relaxing to the eye color scheme consistng of light green, dark blue and other colors",
-    "version": "0.8.0",
+    "version": "0.9.0",
     "publisher": "URblacktea",
     "icon": "image/icon.png",
     "engines": {
@@ -19,5 +19,9 @@
                 "path": "./themes/Salad-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/URpineapple/VisualStudio-CodeTheme-Earth"
     }
 }
