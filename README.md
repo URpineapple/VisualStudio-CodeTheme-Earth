@@ -10,12 +10,12 @@ Dark themes may look cool but could also get your eyes tired very easily. That's
 
 ### **HTML**
 
-![alt-text](image\screenshot-css.png)
+![alt-text](image/screenshot-css.png)
 
 ### **CSS**
 
-![alt-text](image\screenshot-html.png)
+![alt-text](image/screenshot-html.png)
 
 ### **JS**
 
-![alt-text](image\screenshot-js.png)
+![alt-text](image/screenshot-js.png)
