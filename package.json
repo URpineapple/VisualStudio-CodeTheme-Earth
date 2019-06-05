@@ -1,0 +1,23 @@
+{
+    "name": "dateng",
+    "displayName": "Earth",
+    "description": "A relaxing to the eye color scheme consistng of light green, dark blue and other colors",
+    "version": "0.8.0",
+    "publisher": "URblacktea",
+    "icon": "image/icon.png",
+    "engines": {
+        "vscode": "^1.34.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Salad",
+                "uiTheme": "vs",
+                "path": "./themes/Salad-color-theme.json"
+            }
+        ]
+    }
+}
