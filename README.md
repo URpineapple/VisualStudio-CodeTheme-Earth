@@ -1,4 +1,4 @@
-## Description
+## **Description**
 
 **"Earth"** is a color theme designed to provide an eye-relaxing experience for users. It has deep support for **HTML**, **CSS**, and **JavaScript**.
 
@@ -6,7 +6,16 @@ Dark themes may look cool but could also get your eyes tired very easily. That's
 
 Also, if you like my work don't forget to give me a five-star review!
 
-## Screenshots
+## **Screenshots**
 
-![alt-text]("https://github.com/URpineapple/VisualStudio-CodeTheme-Earth/blob/master/image/screenshot-css.png")
+### **HTML**
 
+![alt-text](image\screenshot-css.png)
+
+### **CSS**
+
+![alt-text](image\screenshot-html.png)
+
+### **JS**
+
+![alt-text](image\screenshot-js.png)
