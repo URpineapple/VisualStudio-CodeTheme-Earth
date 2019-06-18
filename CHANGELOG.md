@@ -1,9 +1,8 @@
 # Change Log
 
-All notable changes to the "dateng" extension will be documented in this file.
+All notable changes to the "Earth" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 0.9.1(June 17, 2019)
 
-## [Unreleased]
-
-- Initial release
+- Changed the bodrer color of the split editor window
+- Changed the tabbar's background color so users can view the icons

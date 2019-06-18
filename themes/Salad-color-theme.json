@@ -5,6 +5,7 @@
 		"editor.background": "#c3fadc",
 		"editor.foreground": "#05386b",
 		"editor.lineHighlightBorder": "#c3fadc",
+		"editorGroup.border": "#05386b", //this controls the border color of split window
 		"pickerGroup.foreground": "#05386b",
 
 		"button.background": "#05386b",
@@ -26,7 +27,7 @@
 		"tab.inactiveBackground": "#05386b",
 		"tab.inactiveForeground": "#c3fadc",
 		"tab.border": "#05386b",
-		"editorGroupHeader.tabsBackground": "#05386b",
+		"editorGroupHeader.tabsBackground": "#c3fadc", // this controls the tabbar's bg color regardless of the tabs
 
 		"menu.background": "#05386b",
 		"menu.foreground": "#c3fadc",
@@ -35,7 +36,7 @@
 
 		"sideBar.background": "#c3fadc",
 		"sideBar.foreground": "#05386b",
-		"sideBar.border": "#000000",
+		"sideBar.border": "#05386b",
 
 		"list.hoverBackground": "#a9dabf",
 		"list.activeSelectionBackground": "#05386b",
@@ -44,7 +45,6 @@
 		"list.inactiveSelectionForeground": "#05386b",
 		"list.focusBackground": "#a9dabf",
 		"list.focusForeground": "#05386b",
-
 	
 
 		"sideBarSectionHeader.background": "#05386b",
@@ -53,7 +53,6 @@
 		"editorSuggestWidget.background": "#c3fadc",
 		"editorSuggestWidget.foreground": "#05646b",
 		"editorSuggestWidget.border": "#05386b",
-		
 
 		"panel.background": "#c3fadc",
 		"panelTitle.activeForeground": "#05386b",
