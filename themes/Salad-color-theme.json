@@ -11,7 +11,6 @@
 		"button.background": "#05386b",
 		"button.foreground": "#edf5e1",
 
-		"sideBarSectionHeader.foreground": "#c3fadc",
 		"activityBar.background": "#05386b",
 		"activityBar.foreground": "#c3fadc",
 
@@ -37,6 +36,10 @@
 		"sideBar.background": "#c3fadc",
 		"sideBar.foreground": "#05386b",
 		"sideBar.border": "#05386b",
+		"sideBarSectionHeader.foreground": "#05386b",
+		"sideBarSectionHeader.background": "#a9dabf",
+
+		"terminal.foreground": "#05386b",
 
 		"list.hoverBackground": "#a9dabf",
 		"list.activeSelectionBackground": "#05386b",
@@ -45,11 +48,9 @@
 		"list.inactiveSelectionForeground": "#05386b",
 		"list.focusBackground": "#a9dabf",
 		"list.focusForeground": "#05386b",
-	
-
-		"sideBarSectionHeader.background": "#05386b",
+		
 		"editorSuggestWidget.selectedBackground": "#a9dabf",
-		"editorSuggestWidget.highlightForeground": "#df742d",
+		"editorSuggestWidget.highlightForeground": "#a9dabf",
 		"editorSuggestWidget.background": "#c3fadc",
 		"editorSuggestWidget.foreground": "#05646b",
 		"editorSuggestWidget.border": "#05386b",
