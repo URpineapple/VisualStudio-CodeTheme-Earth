@@ -50,7 +50,7 @@
 		"list.focusForeground": "#05386b",
 		
 		"editorSuggestWidget.selectedBackground": "#a9dabf",
-		"editorSuggestWidget.highlightForeground": "#a9dabf",
+		"editorSuggestWidget.highlightForeground": "#d89400",
 		"editorSuggestWidget.background": "#c3fadc",
 		"editorSuggestWidget.foreground": "#05646b",
 		"editorSuggestWidget.border": "#05386b",

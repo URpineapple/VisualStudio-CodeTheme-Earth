@@ -11,3 +11,7 @@ All notable changes to the "Earth" extension will be documented in this file.
 
 - Changed the color of sidebar section header foreground and background
 - Changed the foreground color of the terminal
+
+## 0.9.3(September 18, 2019)
+
+- Modified the color of editorSuggestWidget.highlightForeground to make it available when coding
