@@ -1,8 +1,8 @@
 {
     "name": "dateng",
-    "displayName": "Earth",
-    "description": "A relaxing to the eye color scheme consistng of light green, dark blue and other colors",
-    "version": "0.9.3",
+    "displayName": "Salad",
+    "description": "An eye relaxing color scheme you never know you needed",
+    "version": "0.9.5",
     "publisher": "URblacktea",
     "icon": "image/icon.png",
     "engines": {

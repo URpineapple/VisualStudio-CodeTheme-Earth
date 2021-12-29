@@ -15,3 +15,9 @@ All notable changes to the "Earth" extension will be documented in this file.
 ## 0.9.3(September 18, 2019)
 
 - Modified the color of editorSuggestWidget.highlightForeground to make it available when coding
+
+## 0.9.4(December 29, 2021)
+- Changed theme description
+
+## 0.9.5(December 29, 2021)
+- Changed theme name from 'Earth' to 'Salad'
